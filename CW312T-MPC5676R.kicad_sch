@@ -1,0 +1,203 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "61ba16c4-94b2-4af1-8d5d-5bb0ae35f98e")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 21.59 97.79)
+		(size 71.12 73.66)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "204d5726-82d5-46a8-ac23-59e2693d7cc1")
+		(property "Sheetname" "Clock Reset Drivers"
+			(at 21.59 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Clock_Reset_Drivers.kicad_sch"
+			(at 21.59 172.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CW312T-MPC5676R"
+				(path "/61ba16c4-94b2-4af1-8d5d-5bb0ae35f98e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 22.86)
+		(size 73.66 63.5)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b0d3ee0f-c02d-44f7-9c80-ad9f8d717963")
+		(property "Sheetname" "CPU IO Bank 2"
+			(at 102.87 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CPU_IO_Bank_2.kicad_sch"
+			(at 102.87 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CW312T-MPC5676R"
+				(path "/61ba16c4-94b2-4af1-8d5d-5bb0ae35f98e"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 97.79)
+		(size 73.66 73.66)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bc003759-8a72-4396-922a-2d893c508095")
+		(property "Sheetname" "CW312T-Connector"
+			(at 102.87 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CW312T-Connector.kicad_sch"
+			(at 102.87 172.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CW312T-MPC5676R"
+				(path "/61ba16c4-94b2-4af1-8d5d-5bb0ae35f98e"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 185.42 22.86)
+		(size 77.47 66.04)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "bcdd21f4-84e2-4a43-85aa-f99fe951ab44")
+		(property "Sheetname" "MCU Power"
+			(at 185.42 22.1484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU_Power.kicad_sch"
+			(at 185.42 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CW312T-MPC5676R"
+				(path "/61ba16c4-94b2-4af1-8d5d-5bb0ae35f98e"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 21.59 21.59)
+		(size 71.12 64.77)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e3d699d5-b6d4-48c2-aef5-d7766bd28865")
+		(property "Sheetname" "CAN Transceivers"
+			(at 21.59 20.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CAN_Transceivers.kicad_sch"
+			(at 21.59 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CW312T-MPC5676R"
+				(path "/61ba16c4-94b2-4af1-8d5d-5bb0ae35f98e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
