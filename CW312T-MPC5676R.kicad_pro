@@ -388,12 +388,8 @@
       "Root"
     ],
     [
-      "e3d699d5-b6d4-48c2-aef5-d7766bd28865",
-      "CAN Transceivers"
-    ],
-    [
       "204d5726-82d5-46a8-ac23-59e2693d7cc1",
-      "Clock Reset Drivers"
+      "Clock Reset Drivers and CAN Transceivers"
     ],
     [
       "b0d3ee0f-c02d-44f7-9c80-ad9f8d717963",
